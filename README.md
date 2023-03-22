@@ -1,3 +1,6 @@
+This is derived website from Crown_clothing but built on GraphQL(It is a query language for reading and mutating data in APIs).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
